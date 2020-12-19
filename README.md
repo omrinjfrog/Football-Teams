@@ -15,7 +15,7 @@ This step can take up to 5 minutes.
 npm start
 ```
 
-4. After the exeution is completed you can view the application in the following URL:
+4. After the execution is completed you can view the application in the following URL:
 ```
 http://localhost:3000
 ```
